@@ -12,3 +12,6 @@ signUp(username){
     document.write(username);
 
 };
+
+
+// I added some more code here
